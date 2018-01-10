@@ -7,10 +7,7 @@ In this project, you will get a look to how to extract patterns in text data. Th
 
 This project uses top used python packages, maybe you already have them installed. If you don't, just run *pip install [package_name]* on you environment.
 
-* [sklearn](scikit-learn.org/) - The web framework used
-* [pandas](https://pandas.pydata.org/) - Dependency Management
-* [numpy](www.numpy.org/) - Used to generate RSS Feeds
-* [matplotlib](https://matplotlib.org/) - Used to generate RSS Feeds
+* [sklearn](scikit-learn.org/), [pandas](https://pandas.pydata.org/), [numpy](www.numpy.org/) and [matplotlib](https://matplotlib.org/).
 
 ## Authors
 
