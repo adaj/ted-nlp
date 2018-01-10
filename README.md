@@ -14,7 +14,7 @@ This project uses top used python packages, maybe you already have them installe
 
 ## Authors
 
-* **Adelson de Araujo Junior** - [PurpleBooth](https://github.com/adaj)
+* **Adelson de Araujo Junior** - [adaj](https://github.com/adaj)
 
 ## License
 
